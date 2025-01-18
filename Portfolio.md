@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itz-ARPITA
+- 👋 Hi, I’m Arpita Sah 
 - 🙇Pursuing Bachelor in Computer Application
 - 📊Specialization:Data Analysis
 - 👩‍💻Semester:4th Semester 
